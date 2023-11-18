@@ -78,6 +78,11 @@ body {
     max-width: 100vw; /* Define o tamanho máximo em relação à largura da tela */
     height: auto; /* Garante que a altura seja ajustada automaticamente para manter a proporção */
   }
+
+  .img-intext{
+    width: 100%; /* A largura da imagem é 100% do contêiner pai */
+  height: auto; /* Mantém a proporção original da imagem */
+  }
   
 hr {
   box-sizing: content-box;
